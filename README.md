@@ -2,6 +2,8 @@
 
 Implementation of Monte-Carlo Tree search and $\alpha$ MCTS for tic-tac-toe.
 
+[Explanation](Model.md)
+
 ### Tests
 > Perform from root directory!
 
