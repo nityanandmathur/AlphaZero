@@ -1,4 +1,4 @@
-# AlphaZero
+# MCTS for TicTacoe
 
 Implementation of Monte-Carlo Tree search for tic-tac-toe.
 
