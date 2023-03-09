@@ -1,6 +1,6 @@
 # AlphaZero
 
-Implementation of Monte-Carlo Tree search and $\alpha$ MCTS for tic-tac-toe.
+Implementation of Monte-Carlo Tree search for tic-tac-toe.
 
 [Explanation](Model.md)
 
